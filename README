@@ -1,0 +1,8 @@
+## How to find libraries
+
+Inside the running container, you have minimized ubuntu operating system. You can use `apt` to
+find and install libraries. To find a `gcc` compiler you can use the `apt search` command:
+
+```
+
+```
