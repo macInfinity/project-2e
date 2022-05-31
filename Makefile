@@ -1,6 +1,6 @@
 CFLAGS=-W -Wall
 OBJECTS = project2E.o
-
+#comment here
 build: $(OBJECTS)
 	gcc -o project2E $(OBJECTS)
 	chmod +x project2E
